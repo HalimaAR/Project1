@@ -1,0 +1,55 @@
+.navcustome{
+    background-color: white;
+    
+}
+
+.navlinkcustome{
+    color: black;
+}
+
+.home-img{
+    width: 100%;
+    padding: 5%;
+}
+
+.home-container{
+    padding: 5%;
+
+}
+
+.menu-container{
+    padding:0% 5%
+}
+
+.title{
+    text-align: center;
+    padding-top: 5%;
+}
+
+.menu-title2{
+    padding: 4%;
+}
+
+.menu-img{
+    width: 80%;
+    padding-bottom:5%;
+
+}
+
+.menu-text{
+    font-size: 1rem;}
+
+.contact-text{
+    text-align: center;
+    width: 60%;
+}
+
+.cardcustome{
+    border-style: none;
+
+}
+
+.map {
+    height: 400px;
+    width: 100%;
+  }
