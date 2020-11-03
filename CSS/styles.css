@@ -1,3 +1,39 @@
+ul li{
+display: inline-block;
+list-style: none;
+}
+
+a:hover{
+    color:#d49300;
+}
+
+.title{
+    text-align: center;
+    padding: 5%;
+}
+
+.title2{
+    padding: 4%;
+    text-align: center;
+}
+
+.centertext{
+    text-align: center;
+}
+
+.img{
+    width: 120%;
+    padding-bottom:5%;
+
+}
+
+.right-align-text{
+    text-align: end;
+}
+
+
+/* navbar */
+
 .navcustome{
     background-color: white;
     
@@ -7,38 +43,35 @@
     color: black;
 }
 
+.logo{
+    width: 80%;
+    margin: 20% auto 5%;
+}
+
+/* HOME */
 .home-img{
-    width: 100%;
+    width: 90%;
     padding: 5%;
 }
 
 .home-container{
     padding: 5%;
+    background-color: #f8efd4;
 
 }
 
+/* MENU */
 .menu-container{
-    padding:0% 5%
-}
-
-.title{
-    text-align: center;
-    padding-top: 5%;
-}
-
-.menu-title2{
-    padding: 4%;
-}
-
-.menu-img{
-    width: 80%;
-    padding-bottom:5%;
-
+    padding:0% 5%;
+    
 }
 
 .menu-text{
     font-size: 1rem;}
 
+
+
+/* CONTACT */
 .contact-text{
     text-align: center;
     width: 60%;
@@ -49,7 +82,12 @@
 
 }
 
-.map {
-    height: 400px;
-    width: 100%;
-  }
+/* FOOTER */
+.socialmedia{
+    margin-right: 4%;
+    color: #FAB618;
+}
+
+.socialmedia:hover{
+    color:black;
+}
